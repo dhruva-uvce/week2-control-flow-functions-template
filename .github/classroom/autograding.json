@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "Q1 — Grade Calculator",
+      "setup": "pip install pytest",
+      "run": "python -m pytest tests/test_q1.py -v",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 10
+    },
+    {
+      "name": "Q2 — Leap Year Checker",
+      "setup": "",
+      "run": "python -m pytest tests/test_q2.py -v",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 10
+    },
+    {
+      "name": "Q3 — Multiplication Table",
+      "setup": "",
+      "run": "python -m pytest tests/test_q3.py -v",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 10
+    },
+    {
+      "name": "Q4 — Star Pattern",
+      "setup": "",
+      "run": "python -m pytest tests/test_q4.py -v",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 10
+    },
+    {
+      "name": "Q5 — FizzBuzz",
+      "setup": "",
+      "run": "python -m pytest tests/test_q5.py -v",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 10
+    },
+    {
+      "name": "Q6 — Factorial",
+      "setup": "",
+      "run": "python -m pytest tests/test_q6.py -v",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 10
+    },
+    {
+      "name": "Q7 — Reverse a Number",
+      "setup": "",
+      "run": "python -m pytest tests/test_q7.py -v",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 10
+    },
+    {
+      "name": "Q8 — Sum of Digits",
+      "setup": "",
+      "run": "python -m pytest tests/test_q8.py -v",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 10
+    },
+    {
+      "name": "Q9 — Functions with Default Parameters",
+      "setup": "",
+      "run": "python -m pytest tests/test_q9.py -v",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 10
+    },
+    {
+      "name": "Q10 — (Bonus) Call by Reference",
+      "setup": "",
+      "run": "python -m pytest tests/test_q10.py -v",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 10
+    }
+  ]
+}
