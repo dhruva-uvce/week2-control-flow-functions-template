@@ -1,4 +1,4 @@
-# Tests for Q4 — Star Pattern
+# Tests for Q04 — Star Pattern
 
 
 def _extract_star_lines(output):
@@ -13,7 +13,7 @@ def _extract_star_lines(output):
 
 
 def test_pattern_5_rows(run):
-    output = run("Q4.py", "5\n")
+    output = run("Q04.py", "5\n")
     lines = _extract_star_lines(output)
     assert len(lines) == 5
     for i, line in enumerate(lines, start=1):
@@ -21,7 +21,7 @@ def test_pattern_5_rows(run):
 
 
 def test_pattern_3_rows(run):
-    output = run("Q4.py", "3\n")
+    output = run("Q04.py", "3\n")
     lines = _extract_star_lines(output)
     assert len(lines) == 3
     for i, line in enumerate(lines, start=1):
@@ -29,7 +29,7 @@ def test_pattern_3_rows(run):
 
 
 def test_pattern_1_row(run):
-    output = run("Q4.py", "1\n")
+    output = run("Q04.py", "1\n")
     lines = _extract_star_lines(output)
     assert len(lines) == 1
     assert lines[0] == "*"

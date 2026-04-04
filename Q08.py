@@ -1,4 +1,4 @@
-# Q8. Sum of Digits (while loop)
+# Q08. Sum of Digits (while loop)
 #
 # Ask the user for a positive integer.
 # Print the sum of its digits using a while loop.

@@ -1,4 +1,4 @@
-# Tests for Q5 — FizzBuzz
+# Tests for Q05 — FizzBuzz
 
 
 def _fizzbuzz_lines(output):
@@ -17,7 +17,7 @@ def _fizzbuzz_lines(output):
 
 
 def test_fizzbuzz_15(run):
-    output = run("Q5.py", "15\n")
+    output = run("Q05.py", "15\n")
     result_lines = _fizzbuzz_lines(output)
     assert len(result_lines) == 15
     assert result_lines[0] == "1"
@@ -31,7 +31,7 @@ def test_fizzbuzz_15(run):
 
 
 def test_fizzbuzz_5(run):
-    output = run("Q5.py", "5\n")
+    output = run("Q05.py", "5\n")
     result_lines = _fizzbuzz_lines(output)
     assert result_lines[0] == "1"
     assert result_lines[2] == "Fizz"
@@ -39,7 +39,7 @@ def test_fizzbuzz_5(run):
 
 
 def test_fizzbuzz_3(run):
-    output = run("Q5.py", "3\n")
+    output = run("Q05.py", "3\n")
     result_lines = _fizzbuzz_lines(output)
     assert result_lines[0] == "1"
     assert result_lines[1] == "2"
@@ -47,5 +47,5 @@ def test_fizzbuzz_3(run):
 
 
 def test_fizzbuzz_1(run):
-    output = run("Q5.py", "1\n")
+    output = run("Q05.py", "1\n")
     assert "1" in output

@@ -1,4 +1,4 @@
-# Q5. FizzBuzz (for loop + if-else)
+# Q05. FizzBuzz (for loop + if-else)
 #
 # Ask the user for a positive integer n.
 # Print all numbers from 1 to n, but:

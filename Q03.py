@@ -1,4 +1,4 @@
-# Q3. Multiplication Table (for loop)
+# Q03. Multiplication Table (for loop)
 #
 # Ask the user for a positive integer n.
 # Print its multiplication table from 1 to 10.

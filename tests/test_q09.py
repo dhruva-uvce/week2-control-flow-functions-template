@@ -1,11 +1,11 @@
-# Tests for Q9 — Functions with Default Parameters
+# Tests for Q09 — Functions with Default Parameters
 
 import sys
 import os
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 
-from Q9 import greet, power
+from Q09 import greet, power
 
 
 # --- greet tests ---

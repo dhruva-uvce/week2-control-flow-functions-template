@@ -1,4 +1,4 @@
-# Q1. Grade Calculator (if-elif-else)
+# Q01. Grade Calculator (if-elif-else)
 #
 # Ask the user for a score (integer, 0-100).
 # Print the letter grade using these rules:

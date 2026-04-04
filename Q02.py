@@ -1,4 +1,4 @@
-# Q2. Leap Year Checker (if-else)
+# Q02. Leap Year Checker (if-else)
 #
 # Ask the user for a year (integer).
 # Print whether it is a leap year or not.

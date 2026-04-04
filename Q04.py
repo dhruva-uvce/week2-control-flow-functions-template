@@ -1,4 +1,4 @@
-# Q4. Star Pattern (nested for loop)
+# Q04. Star Pattern (nested for loop)
 #
 # Ask the user for a positive integer n.
 # Print a right-angled triangle of '*' with n rows.

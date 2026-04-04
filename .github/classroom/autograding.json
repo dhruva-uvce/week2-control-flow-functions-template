@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "Q1 — Grade Calculator",
+      "name": "Q01 — Grade Calculator",
       "setup": "pip install pytest",
-      "run": "python -m pytest tests/test_q1.py -v",
+      "run": "python -m pytest tests/test_q01.py -v",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -11,9 +11,9 @@
       "points": 10
     },
     {
-      "name": "Q2 — Leap Year Checker",
+      "name": "Q02 — Leap Year Checker",
       "setup": "",
-      "run": "python -m pytest tests/test_q2.py -v",
+      "run": "python -m pytest tests/test_q02.py -v",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -21,9 +21,9 @@
       "points": 10
     },
     {
-      "name": "Q3 — Multiplication Table",
+      "name": "Q03 — Multiplication Table",
       "setup": "",
-      "run": "python -m pytest tests/test_q3.py -v",
+      "run": "python -m pytest tests/test_q03.py -v",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -31,9 +31,9 @@
       "points": 10
     },
     {
-      "name": "Q4 — Star Pattern",
+      "name": "Q04 — Star Pattern",
       "setup": "",
-      "run": "python -m pytest tests/test_q4.py -v",
+      "run": "python -m pytest tests/test_q04.py -v",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -41,9 +41,9 @@
       "points": 10
     },
     {
-      "name": "Q5 — FizzBuzz",
+      "name": "Q05 — FizzBuzz",
       "setup": "",
-      "run": "python -m pytest tests/test_q5.py -v",
+      "run": "python -m pytest tests/test_q05.py -v",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -51,9 +51,9 @@
       "points": 10
     },
     {
-      "name": "Q6 — Factorial",
+      "name": "Q06 — Factorial",
       "setup": "",
-      "run": "python -m pytest tests/test_q6.py -v",
+      "run": "python -m pytest tests/test_q06.py -v",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -61,9 +61,9 @@
       "points": 10
     },
     {
-      "name": "Q7 — Reverse a Number",
+      "name": "Q07 — Reverse a Number",
       "setup": "",
-      "run": "python -m pytest tests/test_q7.py -v",
+      "run": "python -m pytest tests/test_q07.py -v",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -71,9 +71,9 @@
       "points": 10
     },
     {
-      "name": "Q8 — Sum of Digits",
+      "name": "Q08 — Sum of Digits",
       "setup": "",
-      "run": "python -m pytest tests/test_q8.py -v",
+      "run": "python -m pytest tests/test_q08.py -v",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -81,9 +81,9 @@
       "points": 10
     },
     {
-      "name": "Q9 — Functions with Default Parameters",
+      "name": "Q09 — Functions with Default Parameters",
       "setup": "",
-      "run": "python -m pytest tests/test_q9.py -v",
+      "run": "python -m pytest tests/test_q09.py -v",
       "input": "",
       "output": "",
       "comparison": "included",

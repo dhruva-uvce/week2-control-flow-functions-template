@@ -1,4 +1,4 @@
-# Q6. Factorial (for loop)
+# Q06. Factorial (for loop)
 #
 # Ask the user for a non-negative integer n.
 # Compute and print its factorial (n!) using a for loop.

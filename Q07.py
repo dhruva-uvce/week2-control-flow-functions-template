@@ -1,4 +1,4 @@
-# Q7. Reverse a Number (while loop)
+# Q07. Reverse a Number (while loop)
 #
 # Ask the user for a positive integer.
 # Print the reverse of the number using a while loop.
