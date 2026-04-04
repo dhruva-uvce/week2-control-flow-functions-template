@@ -1,4 +1,4 @@
-# Q10. (Bonus) Call by Reference — List Mutations
+# Q10. Call by Reference — List Mutations
 #
 # Write the following two functions:
 #

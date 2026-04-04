@@ -91,7 +91,7 @@
       "points": 10
     },
     {
-      "name": "Q10 — (Bonus) Call by Reference",
+      "name": "Q10 — Call by Reference",
       "setup": "",
       "run": "python -m pytest tests/test_q10.py -v",
       "input": "",

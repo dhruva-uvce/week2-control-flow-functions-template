@@ -1,4 +1,4 @@
-# Tests for Q10 (Bonus) — Call by Reference: List Mutations
+# Tests for Q10 — Call by Reference: List Mutations
 
 import sys
 import os
