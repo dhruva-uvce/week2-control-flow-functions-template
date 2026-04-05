@@ -33,7 +33,7 @@ After you finish your work, run these commands from the assignment folder:
 
 ```powershell
 git add .
-git commit -m "Complete Week 2 assignment"
+git commit -m "Completed Week 2 assignment"
 git push
 ```
 
