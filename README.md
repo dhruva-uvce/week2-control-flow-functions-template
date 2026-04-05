@@ -27,6 +27,18 @@ python -m pytest tests/test_q01.py -v
 
 This will show which tests passed and which tests failed, so you can fix your code before submitting.
 
+## How to Submit
+
+After you finish your work, run these commands from the assignment folder:
+
+```powershell
+git add .
+git commit -m "Complete Week 2 assignment"
+git push
+```
+
+This will upload your latest code to GitHub and trigger auto-grading.
+
 ---
 
 ## If-Else
