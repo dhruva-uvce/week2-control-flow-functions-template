@@ -5,6 +5,28 @@ The files `Q01.py`, `Q02.py`, … `Q10.py` are already created in this repositor
 
 > **Auto-grading is enabled.** Every time you push your code, GitHub will automatically run tests and show you how many you passed. You can push as many times as you want before the deadline.
 
+## Running Tests Locally
+
+To run all tests on your computer, first install `pytest`:
+
+```powershell
+python -m pip install pytest
+```
+
+Then run all tests from this assignment folder:
+
+```powershell
+python -m pytest tests -v
+```
+
+To run tests for only one question:
+
+```powershell
+python -m pytest tests/test_q01.py -v
+```
+
+This will show which tests passed and which tests failed, so you can fix your code before submitting.
+
 ---
 
 ## If-Else
